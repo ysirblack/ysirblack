@@ -2,7 +2,7 @@
 ## Hi  👋 I'm Yasir
 
 - 🔭 Blockchain Developer , coding Smart Contracts, searching new technologies 
-- 🌱 currently learning NestJS, ReactJS ,TypeScipt
+- ⚡ Have projects in NestJS, ReactJS-TypeScipt
 
 
 <!--
