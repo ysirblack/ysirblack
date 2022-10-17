@@ -3,8 +3,8 @@
 <!--
 ![](https://komarev.com/ghpvc/?username=ysirblack&style=flat)
 -->
-- 🔭 Blockchain Developer, designing,coding and testing Smart Contracts in Solidity, searching new technologies 
-- ⚡ Developed projects in NestJS, ReactJS-TypeScript, NodeJS 
+- 🔭 Front-end and Smart Contract Developer
+- ⚡ Developed projects in Next.js-React.js-TypeScript, NestJS, NodeJS 
 
 
 <!--
