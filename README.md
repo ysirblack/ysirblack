@@ -30,7 +30,7 @@ I've been developing front-end applications and smart contracts for blockchain n
 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [yasir.kara@hotmail.com](mailto:yasir.kara@hotmail.com)
-* 🧠  I'm learning still coding,it never ends..
+* 🧠  I'm still learning coding, it never ends..
 * ⚡  I'm also a Pilot and Electronics Engineer. I'm open to chat about it :)
 
 ### Skills
