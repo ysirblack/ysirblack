@@ -25,7 +25,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end (main) - Back-end - Mobile - AWS and Blockchain Developer. I love FE a lot, BE is there to serve to FE ;) 
 -------------------------------------
 
-I've been developing front-end applications and smart contracts for blockchain networks.
+I've been developing Full-stack apps.
 - ⚡ Developed projects in Next.js-ReactNative-TypeScript, NestJS, NodeJS and Solidity
 * ☁️  I'm confident on AWS Cloud tools/features, mostly Lambda, DDB, SAM, IAM, S3, CloudWatch and AppRunner
 * 🌍  I'm based in Istanbul, Turkey
