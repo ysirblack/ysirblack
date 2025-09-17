@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Yasir
 ==================================================================================================================================
 
-Front-end and Smart Contract Engineer
+Front-end (main) - Back-end - Mobile - AWS and Blockchain Developer. I love FE a lot, BE is there to serve to FE ;) 
 -------------------------------------
 
 I've been developing front-end applications and smart contracts for blockchain networks.
-- ⚡ Developed projects in Next.js-React.js-TypeScript, NestJS, NodeJS and Solidity
-
+- ⚡ Developed projects in Next.js-ReactNative-TypeScript, NestJS, NodeJS and Solidity
+* ☁️  I'm confident on AWS Cloud tools/features, mostly Lambda, DDB, SAM, IAM, S3, CloudWatch and AppRunner
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [yasir.kara@hotmail.com](mailto:yasir.kara@hotmail.com)
 * 🧠  I'm still learning coding, it never ends..
